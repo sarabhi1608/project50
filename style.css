@@ -1,0 +1,14 @@
+h1 {
+    color:#4169e1;
+    padding:30px;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
